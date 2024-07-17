@@ -10,4 +10,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,flask,django,fastapi,qt,postgres,sqlite,ubuntu,github,docker,postman,vscode,visualstudio,xd,tensorflow,laravel,php,opencv,dotnet,cs)](https://skillicons.dev)
 <hr>
-![Profile Views](https://komarev.com/ghpvc/?username=SinaHosseini&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=SinaHosseini&color=brightgreen&style=plastic)
