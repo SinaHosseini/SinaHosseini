@@ -13,7 +13,7 @@
 
 
 ## 📊 GitHub Stats
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinaHossini&show_icons=true&theme=radical)
+<!-- ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinaHossini&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinaHosseini&layout=compact&theme=radical)<hr>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SinaHosseini&color=brightgreen&style=plastic)
